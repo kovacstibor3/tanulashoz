@@ -1,0 +1,2 @@
+# tanulashoz
+videok, tankönyvek, peldatarak
